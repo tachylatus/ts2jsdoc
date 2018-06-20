@@ -154,7 +154,7 @@ Any contribution is welcome !
 First, clone the repository:
 
 ```console
-$ git clone https://gitub.com/spatools/ts2jsdoc.git
+$ git clone https://github.com/spatools/ts2jsdoc.git
 ```
 
 Then install dev dependencies:
